@@ -1,0 +1,4 @@
+	Name         Price    Quantity Production_date Expiry_date    
+ 	Молоко 20000    10       1/1/2023        30/9/2023
+	Fruit        15000    5        3/1/2023        15/9/2023
+Total amount lost: 275000
