@@ -18,9 +18,6 @@
     <ClCompile Include="file_w3schools.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Lab_4_Quoc.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Lab_4_Tinh.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
